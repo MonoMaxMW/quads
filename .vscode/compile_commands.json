@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/max/Desktop/dev/projects/quads",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-o", "build/.objs/quads/linux/x86_64/debug/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+}]

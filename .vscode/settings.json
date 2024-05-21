@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "quad_renderer.h": "c",
+        "stdbool.h": "c"
+    }
+}
