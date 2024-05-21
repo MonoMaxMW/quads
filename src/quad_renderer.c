@@ -2,7 +2,7 @@
 #include "glad.h"
 #include "quad_renderer.h"
 
-#define MAX_QUADS 2
+#define MAX_QUADS 1024
 
 typedef struct {
     float       width;
